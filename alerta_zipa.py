@@ -48,7 +48,7 @@ def generar_graficos(datos):
 
 if __name__ == "__main__":
     # Ruta al CSV (¡cambia esto por tu ruta real!)
-    RUTA_CSV = "/content/drive/My Drive/DATOS_SECOP_MOSQUERA/contratos_mosquera.csv"  # Para Colab
+   ruta_csv = "/content/drive/My Drive/DATOS_SECOP_MOSQUERA/SECOP_II_-_Contratos_Electr_nicos_20250402.csv"    # Para Colab
     # RUTA_CSV = "contratos_mosquera.csv"  # Para ejecución local
     
     print("\n" + "="*50)
